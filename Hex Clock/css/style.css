@@ -1,9 +1,14 @@
+@font-face {
+    font-family: Lato;
+    src: url('https://fonts.googleapis.com/css?family=Lato');
+}
 body {
-    font-family: Consolas;
+    font-family: 'Lato' , sans-serif;
     margin-top: 20%;
     text-align: center;
     color: white;
 }
+
 
 #timer {
     font-weight: 300;
